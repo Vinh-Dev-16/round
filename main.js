@@ -5,35 +5,35 @@ document.addEventListener('DOMContentLoaded', function () {
     const imgArray = [
         {
             name: 'Ảnh 1',
-            img: 'images/Thuynhai.jpg'
+            img: './images/Thuynhai.jpg'
         },
         {
             name: 'Ảnh 2',
-            img: 'images/Thuynhai2.jpg'
+            img: './images/Thuynhai2.jpg'
         },
         {
             name: 'Ảnh 3',
-            img: 'images/Thuynhai3.jpg'
+            img: './images/Thuynhai3.jpg'
         },
         {
             name: 'Ảnh 4',
-            img: 'images/Thuynhai4.jpg'
+            img: './images/Thuynhai4.jpg'
         },
         {
             name: 'Ảnh 5',
-            img: 'images/Thuynhai5.jpg'
+            img: './images/Thuynhai5.jpg'
         },
         {
             name: 'Ảnh 6',
-            img: 'images/Thuynhai.jpg'
+            img: './images/Thuynhai.jpg'
         },
         {
             name: 'Ảnh 7',
-            img: 'images/Thuynhai2.jpg'
+            img: './images/Thuynhai2.jpg'
         },
         {
             name: 'Ảnh 8',
-            img: 'images/Thuynhai3.jpg'
+            img: './images/Thuynhai3.jpg'
         },
     ]
 
