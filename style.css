@@ -242,6 +242,6 @@ body {
     .container_animation .icon .imgBx{
         max-width: 50px;
         max-height: 50px;
-        transform-origin: 350%;
+        transform-origin: 355%;
     }
 }
