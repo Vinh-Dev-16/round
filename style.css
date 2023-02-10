@@ -244,4 +244,20 @@ body {
         max-height: 50px;
         transform-origin: 355%;
     }
+    .content::before{
+        inset: 40px !important;  
+    }
+    .content::after{
+        inset: 63px;
+    }
+    .content .card{
+        gap: 0;
+    }
+    .content .card .imgBx{
+        width: 100px;
+        height: 100px;
+    }
+    .content .card .textBx h2{
+        font-size: 1.12em;
+    }
 }
